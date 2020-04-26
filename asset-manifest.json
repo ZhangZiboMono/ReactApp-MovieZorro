@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ReactApp_MovieZorro/static/css/main.abba6d43.chunk.css",
-    "main.js": "/ReactApp_MovieZorro/static/js/main.09a37d7c.chunk.js",
-    "main.js.map": "/ReactApp_MovieZorro/static/js/main.09a37d7c.chunk.js.map",
-    "runtime-main.js": "/ReactApp_MovieZorro/static/js/runtime-main.14112aef.js",
-    "runtime-main.js.map": "/ReactApp_MovieZorro/static/js/runtime-main.14112aef.js.map",
-    "static/js/2.5bfd37c5.chunk.js": "/ReactApp_MovieZorro/static/js/2.5bfd37c5.chunk.js",
-    "static/js/2.5bfd37c5.chunk.js.map": "/ReactApp_MovieZorro/static/js/2.5bfd37c5.chunk.js.map",
-    "index.html": "/ReactApp_MovieZorro/index.html",
-    "precache-manifest.e96f2f6e48111e4e24f752aee00dc021.js": "/ReactApp_MovieZorro/precache-manifest.e96f2f6e48111e4e24f752aee00dc021.js",
-    "service-worker.js": "/ReactApp_MovieZorro/service-worker.js",
-    "static/css/main.abba6d43.chunk.css.map": "/ReactApp_MovieZorro/static/css/main.abba6d43.chunk.css.map",
-    "static/js/2.5bfd37c5.chunk.js.LICENSE.txt": "/ReactApp_MovieZorro/static/js/2.5bfd37c5.chunk.js.LICENSE.txt"
+    "main.css": "/ReactApp-MovieZorro/static/css/main.abba6d43.chunk.css",
+    "main.js": "/ReactApp-MovieZorro/static/js/main.8ab265d3.chunk.js",
+    "main.js.map": "/ReactApp-MovieZorro/static/js/main.8ab265d3.chunk.js.map",
+    "runtime-main.js": "/ReactApp-MovieZorro/static/js/runtime-main.3828f905.js",
+    "runtime-main.js.map": "/ReactApp-MovieZorro/static/js/runtime-main.3828f905.js.map",
+    "static/js/2.5bfd37c5.chunk.js": "/ReactApp-MovieZorro/static/js/2.5bfd37c5.chunk.js",
+    "static/js/2.5bfd37c5.chunk.js.map": "/ReactApp-MovieZorro/static/js/2.5bfd37c5.chunk.js.map",
+    "index.html": "/ReactApp-MovieZorro/index.html",
+    "precache-manifest.4bfab6fe4a387632dfbc633f1ed83d10.js": "/ReactApp-MovieZorro/precache-manifest.4bfab6fe4a387632dfbc633f1ed83d10.js",
+    "service-worker.js": "/ReactApp-MovieZorro/service-worker.js",
+    "static/css/main.abba6d43.chunk.css.map": "/ReactApp-MovieZorro/static/css/main.abba6d43.chunk.css.map",
+    "static/js/2.5bfd37c5.chunk.js.LICENSE.txt": "/ReactApp-MovieZorro/static/js/2.5bfd37c5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.14112aef.js",
+    "static/js/runtime-main.3828f905.js",
     "static/js/2.5bfd37c5.chunk.js",
     "static/css/main.abba6d43.chunk.css",
-    "static/js/main.09a37d7c.chunk.js"
+    "static/js/main.8ab265d3.chunk.js"
   ]
 }
