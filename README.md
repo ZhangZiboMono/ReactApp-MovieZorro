@@ -1,68 +1,45 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## "Movie Zorro" Movie Trending and Seachering App Using ReactJS 
+***
+### Overview
 
-## Available Scripts
+This is my first React App. The main function of it is to show the most popular movies in the past week, and provide the searching function in order to search a certain movie that the user want. The detail information, such as release date, rating score, overview and stage photo are also able to be seen by just clicking the movie poster.
 
-In the project directory, you can run:
+> [View this App on your broswer](https://zhangzibomono.github.io/ReactApp-MovieZorro/) (Deployed with Github Pages)
 
-### `npm start`
+> [View a short video of this app on YouTube](https://youtu.be/7TVT-4weS3A)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+> <img src="https://github.com/ZhangZiboMono/ReactApp-MovieZorro/blob/master/readme-gif.gif" alt="demo gif">
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+***
+### Details
 
-### `npm test`
+This React App is powered by The Movie DB api, which provide free api key to developers. It has a lot of api for us to use:
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Get the trending movies in the past week.
+* Get the searched movies using key works.
+* Get a certain movie's poster, backdrop, date of release, rating score and its genre.
 
-### `npm run build`
+ This App uses Axios library, which is used to make HTTP requests from Node.js. It allows me to query data from the The Movie DB to gether tons of information.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ ***
+ ### Installation
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+* Download this repository.
+* Make sure you have installed Node.js in your computer.
+* Open this project folder in your editer and type below in your console:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+$ npm install
+$ npm start
+```
 
-### `npm run eject`
+* Finally, this React App will run on [http://localhost:3000](http://localhost:3000) in your browser.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+***
+### Contact & Feedback
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* If you found some bugs, I would appreciate you leaving the [Issue Here](https://github.com/ZhangZiboMono/ReactApp-MovieZorro/issues/new).
+* My E-mail: zibo.zhang.byron@gmail.com
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+***
+#### Thanks for viewing this. I hope you enjoy it.
